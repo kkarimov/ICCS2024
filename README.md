@@ -47,9 +47,9 @@ pip install urllib3==1.26.15
 
 ## Data includes only two label groups. If you have more labels you might want to update:
 
- - 'Network.criterionCls' from nn.BCELoss() to nn.CrossEntropyLoss()
+ - 'src.Network.criterionCls' from nn.BCELoss() to nn.CrossEntropyLoss()
 
- - 'model.FC_Classifier.reduction' layer to the one compatible with nn.CrossEntropyLoss()
+ - 'src.model.FC_Classifier.reduction' layer to the one compatible with nn.CrossEntropyLoss()
 
 <p>&nbsp;</p>
 
