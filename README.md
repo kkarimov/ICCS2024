@@ -34,9 +34,8 @@ ImportError: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module
 pip install urllib3==1.26.15
 ```
 
-=======
-## Data used in this paper is proprietory, but you can run traing experiment with your own data and custom dataloader
-=======
+## !!! Data used in this paper is proprietory, but you can run traing experiment with your own data and custom dataloader !!!
+
 
 ## Data includes only two label groups. If ou have more labels you might want to update:
 
