@@ -53,24 +53,24 @@ pip install urllib3==1.26.15
 
 <p>&nbsp;</p>
 
-## Examples
+## Examples:
 
-One-domain experiments, __skip__ if __no data avaialble__:
+One-domain experiments, __skip__ if __no data avaialble__
 
 [trainOne.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/trainOne.ipynb)
 
-Plot losses for one run, __runnable without data__:
+Plot losses for one run, __runnable without data__
 
 [plotLosses.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/plotLosses.ipynb)
 
-Multi-domain training, __skip__ if __no data avaialble__:
+Multi-domain training, __skip__ if __no data avaialble__
 
 [trainAll.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/trainAll.ipynb)
 
-Plot distributions, __runnable without data__:
+Plot distributions, __runnable without data__
 
 [processWeightsExample.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/processWeightsExample.ipynb)
 
-Plot overlapped features, __runnable without data__:
+Plot overlapped features, __runnable without data__
 
 [overlapAnalysis.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/overlapAnalysis.ipynb)
