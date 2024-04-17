@@ -40,7 +40,12 @@ pip install urllib3==1.26.15
 ```
 
 
-##**IMPORTANT**: Data used in this paper is proprietory, but you can run traing experiment with your own data and custom dataloader !!!
+##**IMPORTANT**: Data used in this paper is proprietory, but you can run traing experiment with your own data and custom dataloader!
+
+```bash
+# IMPORTANT: Run this command to start the process
+start-process --important
+```
 
 
 ## Data includes only two label groups. If ou have more labels you might want to update:
