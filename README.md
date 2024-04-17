@@ -9,10 +9,8 @@ CUDA Version: 12.2
 ## Installation
 
 Create a new directory for your project, e.g 'ICCS2024_Karim_Salta', and navigate into it:
-'''
+'''bash
 mkdir ICCS2024_Karim_Salta
-'''
-'''
 cd ICCS2024_Karim_Salta
 '''
 
