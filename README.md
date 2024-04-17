@@ -51,6 +51,7 @@ pip install urllib3==1.26.15
 
  - 'model.FC_Classifier.reduction' layer to the one compatible with nn.CrossEntropyLoss()
 
+<p>&nbsp;</p>
 
 ## Examples
 
