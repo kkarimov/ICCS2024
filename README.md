@@ -41,7 +41,7 @@ pip install urllib3==1.26.15
 
 <p>&nbsp;</p>
 
-## **IMPORTANT**: Data used in this paper is proprietory, but you can run traing experiment with your own data and custom dataloader!
+## **IMPORTANT**: Data used in this paper is proprietory, but you can always run the training with your own data and the custom dataloader!
 
 <p>&nbsp;</p>
 
