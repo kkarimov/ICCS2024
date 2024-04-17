@@ -1,0 +1,27 @@
+/opt/rh/rh-python38/root/bin/python3.8 -m venv iccs2024
+
+from torch import from_numpy
+2.2.1
+
+import numpy as np
+pip install numpy=1.20.0
+import pandas as pd
+pip install pandas==1.1.5
+from filelock import FileLock
+3.13.1
+from orthrus.preprocessing.imputation import HalfMinimum
+pip install orthrus==1.0.9
+
+from sklearn.preprocessing import StandardScaler
+pip install -U scikit-learn
+0.24.2
+
+import math
+import joblib
+import pickle
+import random
+import matplotlib.pyplot as plt
+import time
+from collections import defaultdict
+import ray
+2.0.0
