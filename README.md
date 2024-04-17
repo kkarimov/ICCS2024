@@ -39,6 +39,7 @@ ImportError: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module
 pip install urllib3==1.26.15
 ```
 
+
 ## !!! Data used in this paper is proprietory, but you can run traing experiment with your own data and custom dataloader !!!
 
 
@@ -53,20 +54,20 @@ pip install urllib3==1.26.15
 
 One-domain experiments, __skip__ if __no data avaialble__:
 
-trainOne.ipynb
+[trainOne.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/trainOne.ipynb)
 
 Plot losses for one run, __runnable without data__:
 
-plotLosses.ipynb
+[plotLosses.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/plotLosses.ipynb)
 
 Multi-domain training, __skip__ if __no data avaialble__:
 
-trainAll.ipynb
+[trainAll.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/trainAll.ipynb)
 
 Plot distributions, __runnable without data__:
 
-processWeightsExample.ipynb
+[processWeightsExample.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/processWeightsExample.ipynb)
 
 Plot overlapped features, __runnable without data__:
 
-overlapAnalysis.ipynb
+[overlapAnalysis.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/overlapAnalysis.ipynb)
