@@ -65,4 +65,3 @@ processWeightsExample.ipynb
 Plot overlapped features, __runnable without data__:
 
 overlapAnalysis.ipynb
->>>>>>> master
