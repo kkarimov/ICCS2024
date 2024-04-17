@@ -45,7 +45,7 @@ pip install urllib3==1.26.15
 
 <p>&nbsp;</p>
 
-## Data includes only two label groups. If ou have more labels you might want to update:
+## Data includes only two label groups. If you have more labels you might want to update:
 
  - 'Network.criterionCls' from nn.BCELoss() to nn.CrossEntropyLoss()
 
