@@ -1,4 +1,4 @@
-# ICCS 2024 ((International Conference on Computational Science)
+# ICCS 2024 (International Conference on Computational Science)
 The code for "A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets" paper accepted to  ICCS 2024 
 =======
 ![Logo](https://github.com/kkarimov/ICCS2024/blob/main/diagram.png)
