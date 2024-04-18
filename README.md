@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td><img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" width="450" alt="ICCS 2024"/></td>
-    <td>
+    <td align="center">
       <a href="https://www.iccs-meeting.org/iccs2024/" style="font-size: 35px; text-decoration: none; color: black;">ICCS 2024:</a><br>
       International Conference on Computational Science,<br>
       Malaga, Spain, 2-4 July 2024.
