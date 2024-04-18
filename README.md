@@ -2,11 +2,11 @@
 The code for "A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets" paper accepted to  ICCS 2024 
 =======
 ![Logo](https://github.com/kkarimov/ICCS2024/blob/main/images/diagram.png)
-<p style="text-align:center;">
+<div style="text-align: center; width: 100%;">
   <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped1.png" alt="" style="width: 30%; margin: 0px;">
   <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped2.png" alt="" style="width: 30%; margin: 0px;">
   <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped3.png" alt="" style="width: 30%; margin: 0px;">
-</p>
+</div>
 
 
 ## Requirements:
