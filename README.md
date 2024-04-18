@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.iccs-meeting.org/iccs2024/" style="font-size: 65px; text-decoration: none; color: black;">ICCS 2024:</a><br>
+      <a href="https://www.iccs-meeting.org/iccs2024/" style="font-size: 65px; text-decoration: none; color: black; style="vertical-align: middle;"">ICCS 2024:</a><br>
       International Conference on Computational Science,<br>
       Malaga, Spain, 2-4 July 2024.
     </td>
