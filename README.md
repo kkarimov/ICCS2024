@@ -5,9 +5,9 @@ The code for "A Multi-Domain Multi-Task Approach for Feature Selection from Bulk
   <img src="https://raw.githubusercontent.com/kkarimov/ICCS2024/main/images/diagram.png" alt="Logo">
 </p>
 <p align="center">
-  <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped1.png" alt="" style="width: 31.5%; margin: 0px; display: inline;">
-  <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped2.png" alt="" style="width: 31.5%; margin: 0px; display: inline;">
-  <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped3.png" alt="" style="width: 31.5%; margin: 0px; display: inline;">
+  <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped1.png" alt="" style="width: 31.2%; margin: 0px; display: inline;">
+  <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped2.png" alt="" style="width: 31.2%; margin: 0px; display: inline;">
+  <img src="https://github.com/kkarimov/ICCS2024/blob/main/images/groupped3.png" alt="" style="width: 31.2%; margin: 0px; display: inline;">
 </p>
 
 
