@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" alt="" style="height: 100px; margin-right: 20px;">
+  <img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" alt="" style="height: 70px; margin-right: 20px;">
   <div>
     <a href="https://www.iccs-meeting.org/iccs2024/" style="text-decoration: none; color: black; display: block; font-size: 16px; text-align: left;">ICCS 2024:</a>
     <p style="margin: 0; font-size: 16px; text-align: left;">International Conference on Computational Science,</p>
