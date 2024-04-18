@@ -26,8 +26,6 @@ Python 3.8.13
 
 CUDA Version: 12.2
 
-<p>&nbsp;</p>
-
 ## Installation
 
 Create a new directory for your project, e.g 'ICCS2024_Karim_Salta', and navigate into it:
