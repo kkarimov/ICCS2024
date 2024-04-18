@@ -52,11 +52,10 @@ pip install urllib3==1.26.15
 
 <p>&nbsp;</p>
 
-## **IMPORTANT**: Data used in this paper is proprietory, but you can always run the training with your own data and the custom dataloader!
+## **IMPORTANT**: 
+- Data used in this paper is proprietory, but you can always run the training with your own data and the custom dataloader!
 
-<p>&nbsp;</p>
-
-## Data includes only two label groups. If you have more labels you might want to update:
+- Data includes only two label groups. If you have more labels you might want to update:
 
  - 'src.Network.criterionCls' from nn.BCELoss() to nn.CrossEntropyLoss()
 
