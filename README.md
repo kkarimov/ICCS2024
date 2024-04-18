@@ -3,7 +3,6 @@ The code for "A Multi-Domain Multi-Task Approach for Feature Selection from Bulk
 =======
 ![Logo](https://github.com/kkarimov/ICCS2024/blob/main/diagram.png)
 
-
 ## Requirements:
 Python 3.8.13
 
