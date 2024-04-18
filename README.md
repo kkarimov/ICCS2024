@@ -1,9 +1,9 @@
-<div align="center" style="display: flex; align-items: center;">
-  <img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" alt="" style="height: 50px; margin-right: 15px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" alt="" style="height: 100px; margin-right: 20px;">
   <div>
-    <a href="https://www.iccs-meeting.org/iccs2024/" style="font-size: 16px; color: black; text-decoration: none; display: block; text-align: left;">ICCS 2024:</a>
-    <span style="display: block; text-align: left; font-size: 16px;">International Conference on Computational Science,</span>
-    <span style="display: block; text-align: left; font-size: 16px;">Malaga, Spain, 2-4 July 2024.</span>
+    <a href="https://www.iccs-meeting.org/iccs2024/" style="text-decoration: none; color: black; display: block; font-size: 16px; text-align: left;">ICCS 2024:</a>
+    <p style="margin: 0; font-size: 16px; text-align: left;">International Conference on Computational Science,</p>
+    <p style="margin: 0; font-size: 16px; text-align: left;">Malaga, Spain, 2-4 July 2024.</p>
   </div>
 </div>
 
