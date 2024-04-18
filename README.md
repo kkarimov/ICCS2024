@@ -5,7 +5,7 @@
       International Conference on Computational Science,<br>
       Malaga, Spain, 2-4 July 2024.
     </td>
-    <td><img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" width="450" alt="ICCS 2024"/></td>
+    <td><img src="https://raw.githubusercontent.com/kkarimov/ICCS2024/main/images/conference.png" width="450" alt="ICCS 2024"/></td>
   </tr>
 </table>
 
