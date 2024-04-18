@@ -47,11 +47,11 @@ Populate the environment:
 ```bash
 pip install -r requirements.txt
 ```
-### If you run into this issue:
+#### If you run into this issue:
 ```error
 ImportError: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'OpenSSL 1.0.2k-fips  26 Jan 2017'. See: https://github.com/urllib3/urllib3/issues/2168'
 ```
-### downgrading urllib package should be a good fix:
+#### downgrading urllib package should be a good fix:
 ```bash
 pip install urllib3==1.26.15
 ```
