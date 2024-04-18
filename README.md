@@ -1,11 +1,13 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" alt="" style="height: 100px; margin-right: 10px;">
-  <div>
-    <a href="https://www.iccs-meeting.org/iccs2024/" style="font-size: 16px; display: block; text-decoration: none; color: black;">ICCS 2024:</a>
-    <div style="font-size: 16px; margin-top: 4px;">International Conference on Computational Science,</div>
-    <div style="font-size: 16px; margin-top: 4px;">Malaga, Spain, 2-4 July 2024.</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" width="100" alt="ICCS 2024"/></td>
+    <td>
+      <a href="https://www.iccs-meeting.org/iccs2024/" style="font-size: 16px; text-decoration: none; color: black;">ICCS 2024:</a><br>
+      International Conference on Computational Science,<br>
+      Malaga, Spain, 2-4 July 2024.
+    </td>
+  </tr>
+</table>
 
 The code for [**_"A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets"_**](https://link.springer.com/) paper accepted to [ICCS 2024](https://www.iccs-meeting.org/iccs2024/)
 =======
