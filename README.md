@@ -1,7 +1,7 @@
-# ICCS2024
-The code for "A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets" paper accepted to  ICCS 2024 (International Conference on Computational Science)
-<<<<<<< HEAD
+# International Conference on Computational Science, Malaga, Spain, 2-4 July 2024 ([ICCS 2024](https://www.iccs-meeting.org/iccs2024/)).
+The code for "A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets" paper accepted to  ICCS 2024 
 =======
+![Logo](https://github.com/kkarimov/ICCS2024/blob/main/diagram.png)
 
 ## Requirements:
 Python 3.8.13
@@ -30,39 +30,46 @@ Populate the environment:
 pip install -r requirements.txt
 ```
 ## If you run into this issue:
-ImportError: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'OpenSSL 1.0.2k-fips  26 Jan 2017'. See: https://github.com/urllib3/urllib3/issues/2168' downgrading urllib package should be a good fix:
+```error
+ImportError: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'OpenSSL 1.0.2k-fips  26 Jan 2017'. See: https://github.com/urllib3/urllib3/issues/2168'
+```
+## downgrading urllib package should be a good fix:
 ```bash
 pip install urllib3==1.26.15
 ```
 
-## Data used in this paper is proprietory, but you can run traing experiment with your own data and custom dataloader
+<p>&nbsp;</p>
 
-## Data includes only two label groups. If ou have more labels you might want to update:
+## **IMPORTANT**: Data used in this paper is proprietory, but you can always run the training with your own data and the custom dataloader!
 
- - 'Network.criterionCls' from nn.BCELoss() to nn.CrossEntropyLoss()
+<p>&nbsp;</p>
 
- - 'model.FC_Classifier.reduction' layer to the one compatible with nn.CrossEntropyLoss()
+## Data includes only two label groups. If you have more labels you might want to update:
 
+ - 'src.Network.criterionCls' from nn.BCELoss() to nn.CrossEntropyLoss()
 
-## Examples
+ - 'src.model.FC_Classifier.reduction' layer to the one compatible with nn.CrossEntropyLoss()
 
-One-domain experiments, __skip__ if __no data avaialble__:
+<p>&nbsp;</p>
 
-trainOne.ipynb
+## Examples:
 
-Plot losses for one run, __runnable without data__:
+One-domain experiments, __skip__ if __no data avaialble__
 
-plotLosses.ipynb
+[trainOne.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/trainOne.ipynb)
 
-Multi-domain training, __skip__ if __no data avaialble__:
+Plot losses for one run, __runnable without data__
 
-trainAll.ipynb
+[plotLosses.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/plotLosses.ipynb)
 
-Plot distributions, __runnable without data__:
+Multi-domain training, __skip__ if __no data avaialble__
 
-processWeightsExample.ipynb
+[trainAll.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/trainAll.ipynb)
 
-Plot overlapped features, __runnable without data__:
+Plot distributions, __runnable without data__
 
-overlapAnalysis.ipynb
->>>>>>> master
+[processWeightsExample.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/processWeightsExample.ipynb)
+
+Plot overlapped features, __runnable without data__
+
+[overlapAnalysis.ipynb](https://github.com/kkarimov/ICCS2024/blob/main/overlapAnalysis.ipynb)
