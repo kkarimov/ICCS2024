@@ -11,9 +11,6 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 Please cite as (bibtex when published):
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kkarimov/ICCS2024/blob/main/LICENSE.md) file for details.
-
 <p>&nbsp;</p>
 
 ## Requirements:
