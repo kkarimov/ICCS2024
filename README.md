@@ -5,6 +5,8 @@ The code for [**_"A Multi-Domain Multi-Task Approach for Feature Selection from 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kkarimov/ICCS2024/main/images/diagram.png" alt="Logo">
 </p>
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 <p>&nbsp;</p>
 
