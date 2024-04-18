@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" width="400" alt="ICCS 2024"/></td>
+    <td><img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" width="500" alt="ICCS 2024"/></td>
     <td>
       <a href="https://www.iccs-meeting.org/iccs2024/" style="font-size: 35px; text-decoration: none; color: black;">ICCS 2024:</a><br>
       International Conference on Computational Science,<br>
