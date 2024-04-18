@@ -1,6 +1,6 @@
 <p align="center">
   ICCS 2024: International Conference on Computational Science, Malaga, Spain, 2-4 July 2024.
-  <img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" alt="">
+  <img src="https://www.iccs-meeting.org/iccs2024/wp-content/uploads/2023/07/Malaga_Panoramic_View_1200.jpg" alt="" style="height: 100px;">
 </p>
 
 The code for [**_"A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets"_**](https://link.springer.com/) paper accepted to [ICCS 2024](https://www.iccs-meeting.org/iccs2024/)
