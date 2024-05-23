@@ -11,7 +11,7 @@
 
 <p>&nbsp;</p>
 
-The code for [**_"A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets"_**](https://link.springer.com/) paper accepted to [ICCS 2024](https://www.iccs-meeting.org/iccs2024/)
+The code for [**_"A Multi-Domain Multi-Task Approach for Feature Selection from Bulk RNA Datasets"_**]([https://link.springer.com/](https://easychair.org/smart-program/ICCS2024/2024-07-04.html#talk:256143)) paper accepted to [ICCS 2024](https://www.iccs-meeting.org/iccs2024/)
 =======
 
 <p align="center">
