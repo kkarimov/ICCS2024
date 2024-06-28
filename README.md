@@ -24,6 +24,8 @@ The code for [**_"A Multi-Domain Multi-Task Approach for Feature Selection from 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 Please cite as (bibtex when published):
+
+```bibtex
 @InProceedings{10.1007/978-3-031-63772-8_3,
 author="Salta, Karim
 and Ghosh, Tomojit
@@ -43,6 +45,7 @@ pages="31--45",
 abstract="In this paper a multi-domain multi-task algorithm for feature selection in bulk RNAseq data is proposed. Two datasets are investigated arising from mouse host immune response to Salmonella infection. Data is collected from several strains of collaborative cross mice. Samples from the spleen and liver serve as the two domains. Several machine learning experiments are conducted and the small subset of discriminative across domains features have been extracted in each case. The algorithm proves viable and underlines the benefits of across domain feature selection by extracting new subset of discriminative features which couldn't be extracted only by one-domain approach.",
 isbn="978-3-031-63772-8"
 }
+```
 
 <p>&nbsp;</p>
 
